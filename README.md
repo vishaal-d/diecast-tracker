@@ -1,5 +1,3 @@
----
-
 # 🏎️ Garage.OS — Advanced Die-Cast Collection Tracker
 
 **Garage.OS** is a next-generation web application built for serious die-cast collectors. It pairs a visually stunning **React dashboard** with a powerful **Python scraping engine** to automate the entire process of cataloging your collection.
