@@ -1,0 +1,22 @@
+# --- Global Ignores (Matches anywhere in the project) ---
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# --- Security: Ignore .env files anywhere ---
+.env
+.env.local
+.env.*
+
+# --- Backend Specific ---
+backend/images/
+backend/*.db
+backend/chromedriver.exe
+backend/chromedriver
+backend/venv/
+
+# --- Frontend Specific ---
+frontend/dist/
+frontend/build/
